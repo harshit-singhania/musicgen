@@ -13,7 +13,13 @@
     "vscode": {
       "extensions": [
         "ms-toolsai.jupyter",
-        "ms-python.python"
+        "ms-python.python", 
+        "ms-python.vscode-pylance", 
+        "ms-toolsai.vscode-ai", 
+        "zhuangtongfa.Material-theme", 
+        "GitHub.copilot",
+        "GitHub.copilot-chat", 
+        "vscode-icons-team.vscode-icons"
       ]
     }
   }, 
