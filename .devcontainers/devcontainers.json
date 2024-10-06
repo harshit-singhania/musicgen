@@ -1,0 +1,25 @@
+{
+    "customizations": {
+      "vscode": {
+        "extensions": [
+            "ms-python.python",
+            "ms-toolsai.jupyter", 
+            "ms-toolsai.jupyter-keymap",
+            "GitHub.copilot-chat", 
+            "GitHub.copilot", 
+            "donjayamanne.python-extension-pack", 
+            "KevinRose.vsc-python-indent", 
+            "ms-toolsai.jupyter-renderers",
+            "zhuangtongfa.material-theme", 
+            "vscode-icons-team.vscode-icons", 
+            "inferrinizzard.prettier-sql-vscode", 
+            "njpwerner.autodocstring"
+        ]
+      }
+    },
+    "features": {
+      "ghcr.io/devcontainers/features/nvidia-cuda:1": {
+        "installCudnn": true
+      }
+    }
+}
